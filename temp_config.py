@@ -7,7 +7,7 @@ from types import SimpleNamespace
 #    High   = 60.0
 
 temperatureDict = {
-    "Normal": 43.0,
+    "Normal": 44.0,
     "Medium": 49.0,
     "High":   60.0
 }
