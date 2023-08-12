@@ -46,7 +46,7 @@ try:
         elif float(time) >= Temperature.High:
             apocalypce_mode()
             time.sleep(0.1)
-        time.sleep(0.03)
+        time.sleep(4)
 
 except KeyboardInterrupt:
     pass
