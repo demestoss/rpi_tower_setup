@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+schedule = "*"
+board = "*"
+rpi-ws281x = "*"
+adafruit-circuitpython-neopixel = "*"
+"rpi.gpio" = "*"
+pytz = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
